@@ -1,0 +1,2 @@
+use bloodbank;
+show tables;
